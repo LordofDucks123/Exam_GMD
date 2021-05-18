@@ -9,13 +9,13 @@ https://www.youtube.com/watch?v=1bTEKEWBo5w&ab_channel=FrederikHedetoft
 
 https://play.unity.com/p/webgl-pms/edit
 
-* <b>Løbende Problemer</b>
-Kunne ikke se Text i Canvas
-Kunne ikke komme igennem finishLine
-Omskrive java fil til C-sharp
-Lave AI bilen (for hurtig)
-Skærmen bliver mørk når man spiller spillet.
-kan ikke quit?
+* <b>Løbende Problemer</b><br>
+Kunne ikke se Text i Canvas<br>
+Kunne ikke komme igennem finishLine<br>
+Omskrive java fil til C-sharp<br>
+Lave AI bilen (for hurtig)<br>
+Skærmen bliver mørk når man spiller spillet.<br>
+kan ikke quit?<br>
 
 *BUGS:
 Lyden er dårlig, hvis man skifter view i de første 3 sec (ved countdown)
