@@ -1,2 +1,22 @@
 # Exam_GMD
-My Project
+<b>My Project </b>
+
+* <b>Link til Youtube Video</b>
+
+https://www.youtube.com/watch?v=1bTEKEWBo5w&ab_channel=FrederikHedetoft
+
+* <b>Link til WebGL, hvis i vil give det et skud :) </b>
+
+https://play.unity.com/p/webgl-pms/edit
+
+* <b>Løbende Problemer</b>
+Kunne ikke se Text i Canvas
+Kunne ikke komme igennem finishLine
+Omskrive java fil til C-sharp
+Lave AI bilen (for hurtig)
+Skærmen bliver mørk når man spiller spillet.
+kan ikke quit?
+
+*BUGS:
+Lyden er dårlig, hvis man skifter view i de første 3 sec (ved countdown)
+Hvis man stopper med space, kan den ikke kører efter. 
