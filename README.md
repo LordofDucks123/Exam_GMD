@@ -20,3 +20,8 @@ kan ikke quit?
 *BUGS:
 Lyden er dårlig, hvis man skifter view i de første 3 sec (ved countdown)
 Hvis man stopper med space, kan den ikke kører efter. 
+
+* <b>Asset sources!</b>
+https://assetstore.unity.com/packages/3d/props/mining-pack-low-poly-ores-gems-tools-rails-props-189279?utm_campaign=210224mine40&utm_source=ga&utm_medium=search&gclid=CjwKCAjwy42FBhB2EiwAJY0yQpnvXu2IyGtfpPTFM2GKCbMpLUCZc9hn80ZebwdN0DsfJx3iIRG5XhoCDbAQAvD_BwE
+
+https://jvunity.weebly.com/
